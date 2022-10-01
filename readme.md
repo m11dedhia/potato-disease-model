@@ -1,0 +1,1 @@
+This is a model that predicts Blight in Potatoes by looking at the leaves.
